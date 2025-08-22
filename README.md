@@ -15,3 +15,7 @@ This *Text is italicize*
 ### this is an image
 
 ![This is a gnarwhale](https://images.vexels.com/media/users/3/230667/isolated/preview/19a08729fc0f5069e7f194d1809d507b-happy-kawaii-narwhal-flat.png)
+
+### Journal Entries
+
+Visit my [Journal #1](
