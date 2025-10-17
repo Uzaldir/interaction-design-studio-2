@@ -23,3 +23,7 @@ Visit my [Journal #1](8262025_entry.md)
 ### Exercise 1
 
 [Exercise #1](exercises/characterRandomizer/index.html)
+
+### Project 1
+
+[Project 1](
