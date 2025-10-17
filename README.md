@@ -26,4 +26,4 @@ Visit my [Journal #1](8262025_entry.md)
 
 ### Project 1
 
-[Project 1](
+[Project1](project 1/interactiverandomizer/index.html)
