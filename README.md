@@ -26,3 +26,6 @@ Visit my [Journal #1](8262025_entry.md)
 
 ### Project 1
 
+[Project 1]
+
+
